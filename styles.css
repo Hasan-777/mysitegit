@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
  body{
-    background-image: url("./icons/fon.avif");
-    background-size: cover;
+
+    background-color: darkslategray;
    
  }
 .navbar{
